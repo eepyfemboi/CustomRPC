@@ -5,6 +5,6 @@ the screenshot below shows what the rpc will look like, with the image, state, a
 
 ![screenshot](https://sleepie.dev/i/rpc_screenshot.png)
 
-[a pre-compiled executable for windows can be found by clicking here](https://github.com/eepyfemboi/CustomRPC/releases/tag/1)
+[a pre-compiled executable for windows can be found by clicking here](https://github.com/eepyfemboi/CustomRPC/releases/tag/2)
 
 don't close the window after running it or else it will stop doing the discord rpc thingie
